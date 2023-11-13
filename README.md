@@ -35,9 +35,9 @@ DCGAN Training Progress:
 - We view horizontal and vertical location of pupil as independent time series and apply LSTM to generate future prediction for each
 - LSTM-generated locations are fed into DCGAN for the pupil trace statistics
 
-<img width="320" alt="Screenshot 2023-11-12 at 10 11 41 PM" src="https://github.com/MarcusUniversee/GenerativeDisease/assets/35588167/1846138a-e3a5-4bf3-971e-727fc72057fd">
-<img width="320" alt="Screenshot 2023-11-12 at 10 11 13 PM" src="https://github.com/MarcusUniversee/GenerativeDisease/assets/35588167/94ab72ba-e1d2-4e5c-b681-bf19164c893a">
-<img width="320" alt="Screenshot 2023-11-12 at 10 11 30 PM" src="https://github.com/MarcusUniversee/GenerativeDisease/assets/35588167/7a400de0-6e11-4825-9d97-f8d76864307d">
+<img width="300" alt="Screenshot 2023-11-12 at 10 11 41 PM" src="https://github.com/MarcusUniversee/GenerativeDisease/assets/35588167/1846138a-e3a5-4bf3-971e-727fc72057fd">
+<img width="300" alt="Screenshot 2023-11-12 at 10 11 13 PM" src="https://github.com/MarcusUniversee/GenerativeDisease/assets/35588167/94ab72ba-e1d2-4e5c-b681-bf19164c893a">
+<img width="300" alt="Screenshot 2023-11-12 at 10 11 30 PM" src="https://github.com/MarcusUniversee/GenerativeDisease/assets/35588167/7a400de0-6e11-4825-9d97-f8d76864307d">
 
 The Challenge:
 Use generative AI to create artificial retinal video sequences & eye motion traces given a disease state. 
