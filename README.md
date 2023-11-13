@@ -9,10 +9,12 @@ Slides: https://docs.google.com/presentation/d/1p5pmAzQGegYffPu98yMIs9NvyDUnuPys
 
 Original Retinal Eye Motion Video (data provided by C. Light Technologies):
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/umxOWhzmLYs/0.jpg)](https://www.youtube.com/watch?v=umxOWhzmLYs)
+
 512x512
 
 Our DCGAN-generated Synthetic Eye Motion Video (with embedded pupil trace statistics):
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TMXJJJAKSsQ/0.jpg)](https://www.youtube.com/watch?v=TMXJJJAKSsQ)
+
 64x64 (upscaled with cubic interpolation)
 
 DCGAN Training Progress:
