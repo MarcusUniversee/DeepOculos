@@ -4,3 +4,4 @@ venv/
 *.csv
 MCI/.DS_Store
 .DS_Store
+*.mp4
