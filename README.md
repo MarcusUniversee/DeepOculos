@@ -1,7 +1,7 @@
 # DeepOculos: Generative AI For Eye Retina Disease Tracking
 by Timothy Gao, Henry Hong, Marcus Koh, and Ohm Rajpal
 
-Second-Place Winner at Berkeley's 2023 Annual Datathon for Social Good
+**Second-Place Winner at Berkeley's 2023 Annual Datathon for Social Good**
 
 Slides: https://docs.google.com/presentation/d/1p5pmAzQGegYffPu98yMIs9NvyDUnuPysgHVNScweZCU/edit#slide=id.g1388be8e982_0_3
 
